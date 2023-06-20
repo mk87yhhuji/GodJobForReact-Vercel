@@ -1,5 +1,5 @@
 **The purpose of this warehouse creation**: React opposes the war between Russia and Ukraine, but it does not oppose the US military aid to Ukraine. A group of programmers can’t stand it anymore. They leave a message in React’s warehouse Issue, but React and Vercel use this insulting It is a great decision to publish other people's account information, and it is a permanent publicity. I hope this second-level subdomain will exist forever. This is not Hall of Shame, this is evidence that React and Vercel are anti-human and maliciously support war. Most people in the world are peace-loving, but the programmers of React and Vercel or their leaders are fanatics who love war, so they will create a Hall of Shame website to record this moment.
 
-This evidence site: [https://hall-of-shame.vercel.app/](https://hall-of-shame.vercel.app/)
-Their official website: [https://vercel.com/](https://vercel.com/)
-React Issues: [https://github.com/facebook/react/issues](https://github.com/facebook/react/issues)
+- This evidence site: [https://hall-of-shame.vercel.app/](https://hall-of-shame.vercel.app/)
+- Their official website: [https://vercel.com/](https://vercel.com/)
+- React Issues: [https://github.com/facebook/react/issues](https://github.com/facebook/react/issues)
