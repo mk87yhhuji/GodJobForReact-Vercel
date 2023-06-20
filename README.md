@@ -4,6 +4,8 @@
 - Their official website: [https://vercel.com/](https://vercel.com/)
 - React Issues: [https://github.com/facebook/react/issues](https://github.com/facebook/react/issues)
 
+**The following is the screenshots to keep the evidence. Such a company should close down as soon as possible. It flaunts its greatness all the time, but it is the most pitiful behavior. It vividly reflects the ugly face of supporting the war.** 
+
 ![1](https://github.com/mk87yhhuji/GodJobForReact-Vercel/assets/137183106/1a2a29b4-5179-44da-be83-f7ea837b28ab)
 ![2](https://github.com/mk87yhhuji/GodJobForReact-Vercel/assets/137183106/55a5dda5-c2e1-4664-89fe-5ffcb51a968f)
 ![3](https://github.com/mk87yhhuji/GodJobForReact-Vercel/assets/137183106/6889f74e-32d8-4720-8c63-7579ac72967e)
